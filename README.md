@@ -21,7 +21,7 @@ Users play against the computer, and the game determines the outcome (win, lose,
 
 ## How to Run
 1. Open the [NetRun Online Compiler](https://lawlor.cs.uaf.edu/netrun/run).
-2. Paste the assembly code into the editor.
+2. In the file list, locate and open rsp_game.asm.
 3. Press the **"Run It!"** button.
 4. Input your choice when prompted:
    - `0` for Rock
